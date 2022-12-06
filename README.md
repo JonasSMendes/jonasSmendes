@@ -11,7 +11,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e67534f6392c14d6c518cfb7507e1c20.gif">
+  <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/e67534f6392c14d6c518cfb7507e1c20.gif">
 </div>
 
   ##
