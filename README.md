@@ -12,7 +12,7 @@
   <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/4oMoIbIQrvCjm/giphy.gif">
+  <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif">
 </div>
 
   ##
