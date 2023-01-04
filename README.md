@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">,i'm jonasSmendes</h1> 
 
- 
+ <div align="center">
+  <a href="https://github.com/jonasSmendes">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jonasSmendes&show_icons=true&theme=highcontrast&include_all_commits=false&count_private=true"/>
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jonasSmendes&&theme=highcontrast" alt="jonasSmendes" /></p>
 
 
 </div>
