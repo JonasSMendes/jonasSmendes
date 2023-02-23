@@ -20,7 +20,7 @@
   <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif">
   
 </div>
-
+ </br>
  
   <div>
   
