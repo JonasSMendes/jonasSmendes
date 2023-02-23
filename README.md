@@ -19,8 +19,7 @@
   <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media.giphy.com/media/W4IY7zQdRh7Ow/giphy.gif">
 </div>
 
-  ##
-  
+ 
   <div>
   
   <a href="https://www.instagram.com/jonas_mylv/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
