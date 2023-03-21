@@ -17,8 +17,10 @@
   <img align="center" alt="jonas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="jonas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align= 'center' alt ="jonas-Ts" height = '30' width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img align= 'center' alt ="jonas-Node.js" height = '30' width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-   <img  align= 'center' alt ="jonas-Node.js" height = '30' width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />              
+  <img align= 'center' alt ="jonas-bootstrap" height = '30' width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align= 'center' alt ="jonas-react" height = '30' width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+  <img align= 'center' alt ="jonas-tailwind" height = '30' width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+          
   <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/arxiLc5EiFhja/giphy.gif?cid=ecf05e47dzrsxmdhwdd3x1dwdnnwtwhjxiq7dqwpn80zdnpj&rid=giphy.gif&ct=g">
   
 </div>
