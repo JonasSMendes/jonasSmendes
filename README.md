@@ -25,7 +25,7 @@
   
   <br/>
   
-  <h1> Tecnologias </h1>
+  <h1> Tecnologia  </h1>
   
   <img align="center" alt="jonas-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="jonas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
