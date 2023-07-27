@@ -21,6 +21,9 @@
    <img align= 'center' alt ="jonas-Ts" height = '30' width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   
   <img align= 'center' alt ="jonas-Ts" height = '30' width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  
+ <img align= 'center' alt ="jonas-Ts" height = '30' width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+          
              
   
   <br/>
