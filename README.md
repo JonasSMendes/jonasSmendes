@@ -43,7 +43,6 @@
   <img align="right" alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/arxiLc5EiFhja/giphy.gif?cid=ecf05e47dzrsxmdhwdd3x1dwdnnwtwhjxiq7dqwpn80zdnpj&rid=giphy.gif&ct=g">
 
           
-  
 </div>
  </br>
  
@@ -53,6 +52,13 @@
   <a href = "jonas.jsm2903@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jonas-mendes-98a406226/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
+
+  <div align="center">
+  <a href="https://github.com/JonasSMendes">   
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hakr001&label=Profile%20views&color=0e75b6&style=flat" alt="jonasSmendes" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pro" alt="jonasSmendes" /></a> </p>
 
  
 
