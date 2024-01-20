@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">,i'm jonasSmendes</h1> 
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/artie93">
   <img height="180em" width="380em" src="https://vercel-repo-umber.vercel.app/api?username=jonasSmendes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/> <img height="180em" width="400em" src="https://vercel-repo-umber.vercel.app/api/top-langs/?username=jonasSmendes&layout=compact&langs_count=7&theme=transparent&exclude_repo=namd_analysis,vercel_repo"/>
 </div> 
