@@ -12,39 +12,39 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api?username=JonasSMendes&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="Estatísticas do meu GitHub (Light Mode)"/>
-      </a>
       <a href="https://github.com/JonasSMendes#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api?username=JonasSMendes&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="Estatísticas do meu GitHub (Dark Mode)"/>
       </a>
+      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api?username=JonasSMendes&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="Estatísticas do meu GitHub (Light Mode)"/>
+      </a>
     </td>
     <td rowspan="2" align="center">
-      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSMendes&theme=default&langs_count=8#gh-light-mode-only" alt="Linguagens Mais Usadas (Light Mode)"/>
-      </a>
       <a href="https://github.com/JonasSMendes#gh-dark-mode-only">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSMendes&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="Linguagens Mais Usadas (Dark Mode)"/>
+      </a>
+      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonasSMendes&theme=default&langs_count=8#gh-light-mode-only" alt="Linguagens Mais Usadas (Light Mode)"/>
       </a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasSMendes&theme=default" alt="Streak do meu GitHub (Light Mode)"/>
-      </a>
       <a href="https://github.com/JonasSMendes#gh-dark-mode-only">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasSMendes&theme=tokyonight" alt="Streak do meu GitHub (Dark Mode)"/>
+      </a>
+      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonasSmendes&theme=default" alt="Streak do meu GitHub (Light Mode)"/>
       </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=JonasSMendes&theme=github-light" alt="Snake de Contribuições (Light Mode)"/>
-      </a>
       <a href="https://github.com/JonasSMendes#gh-dark-mode-only">
         <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=JonasSMendes&theme=github-dark" alt="Snake de Contribuições (Dark Mode)"/>
+      </a>
+      <a href="https://github.com/JonasSMendes#gh-light-mode-only">
+        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?user=JonasSMendes&theme=github-light" alt="Snake de Contribuições (Light Mode)"/>
       </a>
     </td>
   </tr>
