@@ -4,10 +4,6 @@
 <h1 align="center">Olá 👋, eu sou JonasSmendes</h1>
 
 <div align="center">
-  <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="45px" width="45px">
-</div>
-
-<div align="center">
   <a href="https://github.com/JonasSMendes">
     <img height="180em" width="380em" src="https://vercel-repo-umber.vercel.app/api?username=jonasSmendes&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   </a>
@@ -36,9 +32,9 @@
   <img align="center" alt="jonas-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </div>
 
-<div align="right">
-  <img alt="jonas-pic" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/arxiLc5EiFhja/giphy.gif?cid=ecf05e47dzrsxmdhwdd3x1dwdnnwtwhjxiq7dqwpn80zdnpj&rid=giphy.gif&ct=g">
-</div>
+<br/>
+
+  ![Banner](https://media1.giphy.com/media/arxiLc5EiFhja/giphy.gif?cid=ecf05e47dzrsxmdhwdd3x1dwdnnwtwhjxiq7dqwpn80zdnpj&rid=giphy.gif)
 
 <br/>
 
