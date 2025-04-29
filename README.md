@@ -2,10 +2,30 @@
 
 
 <div align="center">
-     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%ad3443CE&size=30&center=true&vCenter=true&width=450&lines=I'm+Jonas;Computer+Scientist+Student;Brazilian+Backend+Dev" alt="Computer scientist Student, Brazilian Back-end developer"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%23e4b8bf&size=30&center=true&vCenter=true&width=450&lines=I'm+Jonas;Computer+Scientist+Student;Brazilian+Backend+Dev" alt="Computer scientist Student, Brazilian Back-end developer"></a>
 </div>
 
+<hr/>
 
+<img align="left" src="https://i.pinimg.com/736x/a4/83/aa/a483aab604cb2f0dd08ed6f5039415e8.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" higth="340" width="310" /> 
+
+```csharp
+JonasSmendes@github
+-------------------------
+OS: windows
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Recife, PE
+Frameworks: Angular19, SpringBoot, React, NextJs
+Languages: Java, C, JavaScript, TypeScript,
+           HTML, CSS, MySql, PostgreSQL
+Learning: Azura Cloud, Kali linux
+Hobbies: Ler, Filmes , jogos, Atividade fisica
+Discord: JonasSM#1515
+```
+
+<hr/>
+<br/>
 
 ## 📈 GitHub Activity Graph:
 
@@ -92,7 +112,7 @@
 
 <div align="center">
     <a href="https://git.io/typing-svg">
-        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=7E3ACECE&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
+        <img alt="thanks for your visit" src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=24&pause=1000&color=%23e4b8bf&center=true&vCenter=true&width=435&lines=Thanks+for+your+visit!" >
     </a>
 </div>
 
