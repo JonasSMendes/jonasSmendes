@@ -1,4 +1,4 @@
-![Banner](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
+<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" alt="Banner" width="1200" height="400">
 
 
 <div align="center">
